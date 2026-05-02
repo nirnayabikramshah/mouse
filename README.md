@@ -25,7 +25,7 @@ This project uses your webcam and Google's **MediaPipe** hand-tracking library t
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/hand-mouse.git
+git clone https://github.com/nirnayabikramshah/mouse.git
 cd hand-mouse
 ```
 
