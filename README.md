@@ -1,11 +1,13 @@
-# 🖱️ Hand Mouse — Control Your Cursor with Gestures
+# 🖱️ mouse — Control Your Cursor with Gestures
 
-> Control your computer mouse using just your hand and a webcam — no hardware required.
+> Control your computer mouse using just your hand and a webcam — no hardware required.  
+> **By [nirnayabikramshah](https://github.com/nirnayabikramshah)**
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green?logo=opencv)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0.10%2B-orange)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
+![Author](https://img.shields.io/badge/Author-nirnayabikramshah-purple)
 
 ---
 
@@ -126,7 +128,36 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ---
 
+## 🎓 Inspiration & Learning Resources
+
+This project was inspired by the wave of AI-powered Python projects and tutorials in the computer vision community. If you want to go deeper, these are great places to start:
+
+### 📺 YouTube Channels
+| Channel | What You'll Learn |
+|---|---|
+| [Murtaza's Workshop](https://www.youtube.com/@murtazasworkshop) | MediaPipe hand tracking, face detection, CV projects |
+| [Nicholas Renotte](https://www.youtube.com/@nicholasrenotte) | End-to-end AI/ML Python projects |
+| [Tech With Tim](https://www.youtube.com/@TechWithTim) | Python automation, OpenCV tutorials |
+| [Sentdex](https://www.youtube.com/@sentdex) | Computer vision, deep learning with Python |
+| [1littlecoder](https://www.youtube.com/@1littlecoder) | Quick AI project demos and experiments |
+
+### 🤖 Similar AI-Powered Python Projects to Explore
+- **Face Mesh** — Map 468 landmarks on a face in real time using MediaPipe
+- **Pose Estimation** — Detect full body keypoints for fitness/game control
+- **Eye Blink Detector** — Trigger actions with blinks using facial landmarks
+- **Gesture Volume Control** — Control system volume with pinch distance
+- **AI Virtual Painter** — Draw on screen by moving your finger in the air
+- **Object Detection Mouse** — Move cursor by tracking a physical object with YOLO
+
+### 📚 Useful Docs & References
+- [MediaPipe Hand Landmark Docs](https://developers.google.com/mediapipe/solutions/vision/hand_landmarker)
+- [OpenCV Python Tutorials](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)
+- [PyAutoGUI Docs](https://pyautogui.readthedocs.io/en/latest/)
+
+---
+
 ## 🙏 Acknowledgements
 
 - [Google MediaPipe](https://github.com/google/mediapipe) for the hand tracking model
 - [PyAutoGUI](https://github.com/asweigart/pyautogui) for cross-platform mouse control
+- Built by [nirnayabikramshah](https://github.com/nirnayabikramshah)
