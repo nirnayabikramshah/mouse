@@ -122,9 +122,7 @@ MediaPipe tracks **21 landmarks** on each hand. This project uses:
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ---
 
